@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
-title: Projects
+title: 项目
 subtitle: ''
 
 content:
@@ -25,12 +25,14 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: 全部
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: 精选
+    tag: Selected
+  - name: 公司
+    tag: Company
+  - name: 个人
+    tag: Individual
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
