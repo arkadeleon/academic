@@ -57,8 +57,6 @@ email: ""
 highlight_name: false
 ---
 
-李俊麟是一名 iOS 软件开发工程师。他从 iPhone SDK 2.2 开始就自学 iOS 开发。在工作的 7 年当中，他一直从事着 iOS 开发相关的工作（其中也做过一点 Android 和 Web 的开发），喜欢编写整洁漂亮的代码。
+李俊麟是一名 iOS 软件开发工程师。他从 iPhone SDK 2.2 开始就自学 iOS 开发。在工作的十余年当中，他一直从事着 iOS 开发相关的工作（其中也做过一点 Android 和 Web 的开发），喜欢编写整洁漂亮的代码。
 
 从 1.0 时代便加入了 Swift 大家族，每一次 Swift 的版本升级都会更新自己的项目。对新鲜事物有一颗好奇心，积极拥抱变化。平时喜欢阅读大牛的博客，看一些技术的书籍，和时代的步伐保持并行。
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
